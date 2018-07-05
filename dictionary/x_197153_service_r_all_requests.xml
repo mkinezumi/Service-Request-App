@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="All Requests" max_length="40" name="x_197153_service_r_all_requests" type="collection">
+        <element label="Requested by" mandatory="true" max_length="32" name="u_requested_by" reference="sys_user" type="reference"/>
+    </element>
+</database>

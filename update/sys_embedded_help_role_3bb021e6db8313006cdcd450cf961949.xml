@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_197153_service_r.all_requests_user" name="x_197153_service_r.all_requests_user">bfb021e6db8313006cdcd450cf961946</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-05 03:00:52</sys_created_on>
+        <sys_id>3bb021e6db8313006cdcd450cf961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bfb021e6db8313006cdcd450cf961946</sys_name>
+        <sys_package display_value="Service Request" source="x_197153_service_r">43b911a6db4313006cdcd450cf9619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">43b911a6db4313006cdcd450cf9619ab</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3bb021e6db8313006cdcd450cf961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-05 03:00:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
